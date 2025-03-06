@@ -112,5 +112,4 @@ The analyzer works best with CSV files containing:
 - **Forecasting**: Predict future energy needs for better resource planning
 - **Pattern Recognition**: Understand usage patterns by time of day, day of week, or season
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
